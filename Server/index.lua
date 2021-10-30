@@ -3,7 +3,7 @@ function GrenadeType()
     local weapon = Grenade(location or Vector(), rotation or Rotator(),"nanos-world::SM_Spraycan_01","nanos-world::P_Weapon_BarrelSmoke")
     weapon:SetMaterial("nanos-world::M_NanosMasked")
 
--- paints it red
+
 weapon:SetMaterialColorParameter("Tint", color or  Color(0, 0, 0))
     
     weapon:SetDamage(0, 0, 0, 0, 0)
