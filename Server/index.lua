@@ -13,9 +13,9 @@ weapon:SetMaterialColorParameter("Tint", color or  Color(0, 0, 0))
             local timeScale = 0 
             local smokeOverTime = 1
             Timer.SetInterval(function()
-                if(i == 20 ) then return false end
+                if(timeScale == 20 ) then return false end
                 timeScale = timeScale + 1
-                    if (i  > 10 ) then 
+                    if (timeScale  > 10 ) then 
                         smokeOverTime = 0
                     else
                         smokeOverTime = smokeOverTime + 0.5
