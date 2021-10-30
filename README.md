@@ -17,5 +17,4 @@ now you have a smoke to cover your ever movement
 
 # TODO 
 add a config file.
-
 add more custom to the smoke grenade.
