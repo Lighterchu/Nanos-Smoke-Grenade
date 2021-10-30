@@ -1,6 +1,9 @@
 # Nanos-Smoke-Grenade
 When under attack throw a smoke grenade and the enemy wont see you 
 
+# Requirement
+https://github.com/nanos-world/nanos-world-sandbox
+
 
 # HOW TO INSTALL 
 Place the file into your packages and then run your server 
