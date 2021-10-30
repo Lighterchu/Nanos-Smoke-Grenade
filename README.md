@@ -2,7 +2,7 @@
 When under attack throw a smoke grenade and the enemy wont see you 
 
 
-#HOW TO INSTALL 
+# HOW TO INSTALL 
 Place the file into your packages and then run your server 
 
 # HOW TO USE 
